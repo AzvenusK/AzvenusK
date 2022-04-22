@@ -1,6 +1,6 @@
 ### ✨ Greetings! ✨ 
 
-Welcome to my profile, thank you for giving your valuable time to explore my repositry!
+Welcome to my profile, thank you for giving your valuable time to explore my GitHub Account!
 
 
 
