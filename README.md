@@ -14,22 +14,12 @@ I am a Master's student, currently completing my Master of Science in Robotics a
 - 🌱 I’m currently learning effective implimentation of Lumen in UE5 for my aforementioned project.
 - 👯 I’m looking to collaborate on XR projects.
 
-### Let's look at a few languages you'll find on my profile.
+### Let's look at a few languages you'll find on my account and some profile statistics.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azvenusk&layout=compact)
+<a href="https://github.com/azvenusk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azvenusk&repo=github-readme-stats&theme=tokyonight" />
+</a>
+<a href="https://github.com/AzvenusK?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azvenusk&repo=convoychat" />
+</a>
 
-
-<!--
-**AzvenusK/AzvenusK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
