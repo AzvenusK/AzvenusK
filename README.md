@@ -6,7 +6,7 @@ Let's start with some simple introduction!
 
 ### Hi my name is [Anmol](https://www.anmolkumar.me), pleasure to make your acquaitance! 👋
 
-I am a Master's student, currently completing my Master of Science in Robotics and Artificial Intelligence at [University of Glasgow](https://www.gla.ac.uk). I am full-stack Game Developer and Software Engineer having experince of coding in multiple languages and environments.
+I am a Master's student, currently completing my Master of Science in Robotics and Artificial Intelligence at [University of Glasgow](https://www.gla.ac.uk). I am a full-stack Game Developer and Software Engineer having experince of coding in multiple languages and environments.
 
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: anmol.kr@yahoo.com
