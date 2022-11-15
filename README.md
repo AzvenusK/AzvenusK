@@ -10,8 +10,8 @@ I am a Master's student, currently completing my Master of Science in Robotics a
 
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: anmol.kr@yahoo.com
-- 🔭 I’m currently working on the project of real-time recommender system for augmented reality glasses.
-- 🌱 I’m currently learning more about recommender systems.
+- 🔭 I’m currently working on PROJECT-ANNA.
+- 🌱 I’m currently learning more about Virtual Assistants.
 - 👯 I’m looking to collaborate on XR projects.
 
 ### A glance at a few languages you'll find on my account and some profile statistics.
