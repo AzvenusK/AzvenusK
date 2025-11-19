@@ -6,13 +6,13 @@ Let's start with some simple introduction!
 
 ### Hi my name is [Anmol](https://www.anmolkumar.me), pleasure to make your acquaitance! 👋
 
-I am a Master's student, currently completing my Master of Science in Robotics and Artificial Intelligence at [University of Glasgow](https://www.gla.ac.uk). I am a full-stack Game Developer and Software Engineer having experince of coding in multiple languages and environments.
+I am a Digital R&D Engineer at [National Manufacturing Institute Scotland](https://nmis.scot/). I am a full-stack Software Developer with experience in end-to-end project deployment and management.
 
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: anmol.kr@yahoo.com
-- 🔭 I’m currently working on PROJECT-ANNA.
-- 🌱 I’m currently learning more about Virtual Assistants.
-- 👯 I’m looking to collaborate on XR projects.
+- 📫 How to reach me: anmol.kr@yahoo.com / anmol.kumar@strath.ac.uk
+- 🔭 I’m currently working on DPP Project.
+- 🌱 I’m currently learning more about Ontologies and schema mapping.
+- 👯 I’m looking to collaborate on research projects.
 
 ### A glance at a few languages you'll find on my account.
 
