@@ -8,7 +8,6 @@ Let's start with some simple introduction!
 
 I am a Digital R&D Engineer at [National Manufacturing Institute Scotland](https://nmis.scot/). I am a full-stack Software Developer with experience in end-to-end project deployment and management.
 
-- 😄 Pronouns: he/him/his
 - 📫 How to reach me: anmol.kr@yahoo.com / anmol.kumar@strath.ac.uk
 - 🔭 I’m currently working on DPP Project.
 - 🌱 I’m currently learning more about Ontologies and schema mapping.
