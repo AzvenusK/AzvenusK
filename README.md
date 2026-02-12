@@ -61,9 +61,8 @@ I am a Digital R&D Engineer at [National Manufacturing Institute Scotland](https
 ### 📊 GitHub at a glance
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=AzvenusK&cc=000&tc=fff&ic=fff&bc=000)
 
-- 🔹 Public repositories: check out my pinned projects below  
-- 🔹 Recent focus: AR/VR, recommender systems, and full‑stack apps  
-- 🔹 Contribution graph: visible on my profile timeline  
+- 🔹 Public repositories: Check out my pinned projects below  
+- 🔹 Contribution graph: Visible on my profile timeline  
 
 ---
 
