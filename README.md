@@ -28,19 +28,11 @@ I am a Digital R&D Engineer at [National Manufacturing Institute Scotland](https
 ---
 
 ### 📊 GitHub at a glance
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=AzvenusK&cc=000&tc=fff&ic=fff&bc=000)
 
-<!-- Replace `AzvenusK` with your username if different -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzvenusK&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzvenusK&layout=compact&theme=radical)
-
----
-
-### 🔍 Selected Work
-
-[![Recommender System for AR Glasses](https://github-readme-stats.vercel.app/api/pin/?username=AzvenusK&repo=Recommender-System-for-AR-Glasses&theme=radical)](https://github.com/AzvenusK/Recommender-System-for-AR-Glasses)
-
-[![Adversedy](https://github-readme-stats.vercel.app/api/pin/?username=AzvenusK&repo=Adversedy&theme=radical)](https://github.com/AzvenusK/Adversedy)
+- 🔹 Public repositories: check out my pinned projects below  
+- 🔹 Recent focus: AR/VR, recommender systems, and full‑stack apps  
+- 🔹 Contribution graph: visible on my profile timeline  
 
 ---
 
